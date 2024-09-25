@@ -1,1 +1,6 @@
 # spring-100daychallenge
+
+Me trying to complete a gfg 100 day spring challenge...
+please find the link here...
+
+https://www.geeksforgeeks.org/100-days-of-spring-boot/
